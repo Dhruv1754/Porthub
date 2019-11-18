@@ -1,7 +1,7 @@
 # Porthub in development
 ----------
 ### Author and Purpose
-This project was made to help bring kali based networking tools to the web for learning purposes for of networking tools. This not contain any portographic content and no animals were harmed in making this tool- Dhruv Mahajan 
+This project was made to help bring kali based networking tools to the web for learning purposes of networking tools and concepts. This not contain any portographic content and no animals were harmed in making this tool- Dhruv Mahajan 
 
 ### About
 ----------
